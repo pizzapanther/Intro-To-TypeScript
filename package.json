@@ -1,0 +1,25 @@
+{
+  "name": "intro-to-typescript",
+  "version": "1.0.0",
+  "description": "Presentation given at the AngularJS Meetup in Houston aka [ngHouston](http://www.meetup.com/ngHouston/) on May 28th, 2015.",
+  "main": "index.js",
+  "directories": {
+    "example": "examples"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/pizzapanther/Intro-To-TypeScript.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/pizzapanther/Intro-To-TypeScript/issues"
+  },
+  "homepage": "https://github.com/pizzapanther/Intro-To-TypeScript",
+  "dependencies": {
+    "typescript": "^1.5.0-beta"
+  }
+}

@@ -11,3 +11,5 @@ module Sayings {
 }
 
 var greeter = new Sayings.Greeter("world");
+
+// Else where in your code: import Sayings = require('Sayings');
