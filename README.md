@@ -4,9 +4,9 @@ Presentation given at the AngularJS Meetup in Houston aka [ngHouston](http://www
 
 Slides located at: [https://goo.gl/mDBxzt](https://goo.gl/mDBxzt)
 
-- narf
-- narf
-- narf
+1. narf
+2. narf
+3. narf
 
 1. one
 2. two
