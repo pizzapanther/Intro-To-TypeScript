@@ -8,6 +8,6 @@ Slides located at: [https://goo.gl/mDBxzt](https://goo.gl/mDBxzt)
 2. narf
 3. narf
 
-1. one
-2. two
-3. three
+- one
+- two
+- three
