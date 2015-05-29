@@ -8,8 +8,6 @@ Slides located at: [https://goo.gl/mDBxzt](https://goo.gl/mDBxzt)
 - narf
 - narf
 
-some text
-
 1. one
 2. two
 3. three
